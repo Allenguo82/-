@@ -10,13 +10,20 @@
 我们使用了多种数据可视化技术来分析数据集，了解特征之间的分布和关系：
 - **直方图**：是强大的数据可视化工具，有助于展示数据分布，能帮助更好地了解糖尿病患者的性别分布、年龄分布、体重指数（BMI）、胆固醇水平、高血压状态、吸烟习惯、饮酒量和体力活动水平。
 
-- <img width="795" height="583" alt="image" src="https://github.com/user-attachments/assets/902b3e71-901b-43df-a1bd-bcdf4f08d22d" />
+<img width="1525" height="588" alt="image" src="https://github.com/user-attachments/assets/d1a22235-4836-4a56-a558-ad302514fc4e" />
 
-<img width="611" height="414" alt="image" src="https://github.com/user-attachments/assets/85eb8662-da3e-482f-ba9c-3d74d1ba482a" />
+<img width="1528" height="587" alt="image" src="https://github.com/user-attachments/assets/def0461f-933e-4532-9593-2b3c5a769016" />
 
-<img width="430" height="460" alt="image" src="https://github.com/user-attachments/assets/aa50c1fa-e30d-4e64-a3d0-69b58520edb0" />
+<img width="1549" height="617" alt="image" src="https://github.com/user-attachments/assets/f5bcdaaf-8c82-465e-a634-c70007b68d78" />
 
-<img width="501" height="459" alt="image" src="https://github.com/user-attachments/assets/12540b6d-22c8-4f0d-b3ef-228f7360da5f" />
+
+
+
+
+
+
+
+
 
 
 - **热力图**：用于可视化不同特征之间的相关性，能让人了解哪些特征具有强相关性，有助于特征选择和特征工程。
